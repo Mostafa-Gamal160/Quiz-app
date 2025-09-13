@@ -5,7 +5,7 @@
     "answer_2": "<js>",
     "answer_3": "<javascript>",
     "answer_4": "<code>",
-    "correct_answer": "<script>"
+    "right_answer": "<script>"
   },
   {
     "title": "Which keyword is used to declare a variable in JavaScript?",
@@ -13,7 +13,7 @@
     "answer_2": "let",
     "answer_3": "const",
     "answer_4": "All of the above",
-    "correct_answer": "All of the above"
+    "right_answer": "All of the above"
   },
   {
     "title": "Which symbol is used for single-line comments in JavaScript?",
@@ -21,7 +21,7 @@
     "answer_2": "/*",
     "answer_3": "#",
     "answer_4": "--",
-    "correct_answer": "//"
+    "right_answer": "//"
   },
   {
     "title": "How do you write 'Hello World' in an alert box?",
@@ -29,7 +29,7 @@
     "answer_2": "msg('Hello World');",
     "answer_3": "msgBox('Hello World');",
     "answer_4": "alertBox('Hello World');",
-    "correct_answer": "alert('Hello World');"
+    "right_answer": "alert('Hello World');"
   },
   {
     "title": "Which operator is used to assign a value?",
@@ -37,7 +37,7 @@
     "answer_2": "==",
     "answer_3": "===",
     "answer_4": ":=",
-    "correct_answer": "="
+    "right_answer": "="
   },
   {
     "title": "Which operator checks both value and type?",
@@ -45,7 +45,7 @@
     "answer_2": "===",
     "answer_3": "=",
     "answer_4": "!==",
-    "correct_answer": "==="
+    "right_answer": "==="
   },
   {
     "title": "Which method converts JSON to an object?",
@@ -53,7 +53,7 @@
     "answer_2": "JSON.stringify()",
     "answer_3": "JSON.objectify()",
     "answer_4": "parse.JSON()",
-    "correct_answer": "JSON.parse()"
+    "right_answer": "JSON.parse()"
   },
   {
     "title": "Which loop is guaranteed to run at least once?",
@@ -61,7 +61,7 @@
     "answer_2": "while",
     "answer_3": "do...while",
     "answer_4": "forEach",
-    "correct_answer": "do...while"
+    "right_answer": "do...while"
   },
   {
     "title": "Which keyword stops a loop?",
@@ -69,7 +69,7 @@
     "answer_2": "break",
     "answer_3": "exit",
     "answer_4": "return",
-    "correct_answer": "break"
+    "right_answer": "break"
   },
   {
     "title": "What is the result of typeof null?",
@@ -77,7 +77,7 @@
     "answer_2": "object",
     "answer_3": "undefined",
     "answer_4": "boolean",
-    "correct_answer": "object"
+    "right_answer": "object"
   },
   {
     "title": "Which function is used to print something in the console?",
@@ -85,7 +85,7 @@
     "answer_2": "console.print()",
     "answer_3": "console.log()",
     "answer_4": "print()",
-    "correct_answer": "console.log()"
+    "right_answer": "console.log()"
   },
   {
     "title": "Which keyword is used to define a constant?",
@@ -93,7 +93,7 @@
     "answer_2": "var",
     "answer_3": "const",
     "answer_4": "constant",
-    "correct_answer": "const"
+    "right_answer": "const"
   },
   {
     "title": "Which array method adds a new element at the end?",
@@ -101,7 +101,7 @@
     "answer_2": "pop()",
     "answer_3": "shift()",
     "answer_4": "unshift()",
-    "correct_answer": "push()"
+    "right_answer": "push()"
   },
   {
     "title": "Which array method removes the last element?",
@@ -109,7 +109,7 @@
     "answer_2": "pop()",
     "answer_3": "shift()",
     "answer_4": "splice()",
-    "correct_answer": "pop()"
+    "right_answer": "pop()"
   },
   {
     "title": "Which array method removes the first element?",
@@ -117,7 +117,7 @@
     "answer_2": "pop()",
     "answer_3": "unshift()",
     "answer_4": "slice()",
-    "correct_answer": "shift()"
+    "right_answer": "shift()"
   },
   {
     "title": "Which array method adds elements at the beginning?",
@@ -125,7 +125,7 @@
     "answer_2": "push()",
     "answer_3": "shift()",
     "answer_4": "concat()",
-    "correct_answer": "unshift()"
+    "right_answer": "unshift()"
   },
   {
     "title": "Which function is used to convert a string to lowercase?",
@@ -133,7 +133,7 @@
     "answer_2": "toUpperCase()",
     "answer_3": "lower()",
     "answer_4": "stringLower()",
-    "correct_answer": "toLowerCase()"
+    "right_answer": "toLowerCase()"
   },
   {
     "title": "Which function is used to convert a string to uppercase?",
@@ -141,7 +141,7 @@
     "answer_2": "toUpperCase()",
     "answer_3": "uppercase()",
     "answer_4": "stringUpper()",
-    "correct_answer": "toUpperCase()"
+    "right_answer": "toUpperCase()"
   },
   {
     "title": "Which function parses a string to an integer?",
@@ -149,7 +149,7 @@
     "answer_2": "parseFloat()",
     "answer_3": "Number()",
     "answer_4": "int()",
-    "correct_answer": "parseInt()"
+    "right_answer": "parseInt()"
   },
   {
     "title": "Which function parses a string to a float?",
@@ -157,7 +157,7 @@
     "answer_2": "parseFloat()",
     "answer_3": "Number()",
     "answer_4": "float()",
-    "correct_answer": "parseFloat()"
+    "right_answer": "parseFloat()"
   },
   {
     "title": "Which keyword refers to the current object?",
@@ -165,7 +165,7 @@
     "answer_2": "self",
     "answer_3": "this",
     "answer_4": "current",
-    "correct_answer": "this"
+    "right_answer": "this"
   },
   {
     "title": "Which method joins array elements into a string?",
@@ -173,7 +173,7 @@
     "answer_2": "join()",
     "answer_3": "toString()",
     "answer_4": "combine()",
-    "correct_answer": "join()"
+    "right_answer": "join()"
   },
   {
     "title": "Which JavaScript method removes whitespace from both ends of a string?",
@@ -181,7 +181,7 @@
     "answer_2": "trim()",
     "answer_3": "slice()",
     "answer_4": "split()",
-    "correct_answer": "trim()"
+    "right_answer": "trim()"
   },
   {
     "title": "Which operator is used to concatenate strings?",
@@ -189,7 +189,7 @@
     "answer_2": "&",
     "answer_3": "++",
     "answer_4": "concat",
-    "correct_answer": "+"
+    "right_answer": "+"
   },
   {
     "title": "Which method is used to find the length of a string?",
@@ -197,7 +197,7 @@
     "answer_2": "size",
     "answer_3": "length",
     "answer_4": "index",
-    "correct_answer": "length"
+    "right_answer": "length"
   },
   {
     "title": "Which function is used to delay code execution?",
@@ -205,7 +205,7 @@
     "answer_2": "setTimeout()",
     "answer_3": "wait()",
     "answer_4": "delay()",
-    "correct_answer": "setTimeout()"
+    "right_answer": "setTimeout()"
   },
   {
     "title": "Which method executes a function repeatedly at fixed intervals?",
@@ -213,7 +213,7 @@
     "answer_2": "setInterval()",
     "answer_3": "repeat()",
     "answer_4": "loop()",
-    "correct_answer": "setInterval()"
+    "right_answer": "setInterval()"
   },
   {
     "title": "Which object represents the browser window?",
@@ -221,7 +221,7 @@
     "answer_2": "document",
     "answer_3": "screen",
     "answer_4": "navigator",
-    "correct_answer": "window"
+    "right_answer": "window"
   },
   {
     "title": "Which object represents the HTML document?",
@@ -229,7 +229,7 @@
     "answer_2": "window",
     "answer_3": "page",
     "answer_4": "html",
-    "correct_answer": "document"
+    "right_answer": "document"
   },
   {
     "title": "Which keyword is used to handle errors in JavaScript?",
@@ -237,6 +237,6 @@
     "answer_2": "try...catch",
     "answer_3": "if...else",
     "answer_4": "error...catch",
-    "correct_answer": "try...catch"
+    "right_answer": "try...catch"
   }
 ]

@@ -5,7 +5,7 @@
     "answer_2": "Creative Style System",
     "answer_3": "Computer Styled Sections",
     "answer_4": "Colorful Style Syntax",
-    "correct_answer": "Cascading Style Sheets"
+    "right_answer": "Cascading Style Sheets"
   },
   {
     "title": "Which CSS property controls the text size?",
@@ -13,7 +13,7 @@
     "answer_2": "text-style",
     "answer_3": "text-size",
     "answer_4": "font-weight",
-    "correct_answer": "font-size"
+    "right_answer": "font-size"
   },
   {
     "title": "Which CSS property is used to change text color?",
@@ -21,7 +21,7 @@
     "answer_2": "font-color",
     "answer_3": "color",
     "answer_4": "text-color",
-    "correct_answer": "color"
+    "right_answer": "color"
   },
   {
     "title": "Which of the following is NOT a valid CSS position value?",
@@ -29,7 +29,7 @@
     "answer_2": "relative",
     "answer_3": "absolute",
     "answer_4": "centered",
-    "correct_answer": "centered"
+    "right_answer": "centered"
   },
   {
     "title": "Which CSS property makes text bold?",
@@ -37,7 +37,7 @@
     "answer_2": "font-style",
     "answer_3": "text-bold",
     "answer_4": "bold",
-    "correct_answer": "font-weight"
+    "right_answer": "font-weight"
   },
   {
     "title": "Which CSS property is used to make text italic?",
@@ -45,7 +45,7 @@
     "answer_2": "text-italic",
     "answer_3": "italicize",
     "answer_4": "font-weight",
-    "correct_answer": "font-style"
+    "right_answer": "font-style"
   },
   {
     "title": "Which property is used to set the background color?",
@@ -53,7 +53,7 @@
     "answer_2": "background-color",
     "answer_3": "bgcolor",
     "answer_4": "background-style",
-    "correct_answer": "background-color"
+    "right_answer": "background-color"
   },
   {
     "title": "Which CSS property changes the space between letters?",
@@ -61,7 +61,7 @@
     "answer_2": "word-spacing",
     "answer_3": "line-height",
     "answer_4": "font-spacing",
-    "correct_answer": "letter-spacing"
+    "right_answer": "letter-spacing"
   },
   {
     "title": "Which CSS unit is relative to the root element’s font size?",
@@ -69,7 +69,7 @@
     "answer_2": "rem",
     "answer_3": "%",
     "answer_4": "px",
-    "correct_answer": "rem"
+    "right_answer": "rem"
   },
   {
     "title": "Which CSS property makes a flex container?",
@@ -77,7 +77,7 @@
     "answer_2": "display: inline",
     "answer_3": "display: flex",
     "answer_4": "display: grid",
-    "correct_answer": "display: flex"
+    "right_answer": "display: flex"
   },
   {
     "title": "Which CSS property is used to create space inside an element?",
@@ -85,7 +85,7 @@
     "answer_2": "padding",
     "answer_3": "border",
     "answer_4": "gap",
-    "correct_answer": "padding"
+    "right_answer": "padding"
   },
   {
     "title": "Which property sets the transparency of an element?",
@@ -93,7 +93,7 @@
     "answer_2": "visibility",
     "answer_3": "display",
     "answer_4": "filter",
-    "correct_answer": "opacity"
+    "right_answer": "opacity"
   },
   {
     "title": "Which property is used to change the type of cursor?",
@@ -101,7 +101,7 @@
     "answer_2": "pointer",
     "answer_3": "hover",
     "answer_4": "mouse",
-    "correct_answer": "cursor"
+    "right_answer": "cursor"
   },
   {
     "title": "Which CSS property is used to control stacking order?",
@@ -109,7 +109,7 @@
     "answer_2": "stack-order",
     "answer_3": "index",
     "answer_4": "position",
-    "correct_answer": "z-index"
+    "right_answer": "z-index"
   },
   {
     "title": "Which CSS property controls line height?",
@@ -117,7 +117,7 @@
     "answer_2": "letter-spacing",
     "answer_3": "font-height",
     "answer_4": "spacing",
-    "correct_answer": "line-height"
+    "right_answer": "line-height"
   },
   {
     "title": "Which CSS function is used to apply shadows to text?",
@@ -125,7 +125,7 @@
     "answer_2": "shadow-text",
     "answer_3": "text-shadow",
     "answer_4": "font-shadow",
-    "correct_answer": "text-shadow"
+    "right_answer": "text-shadow"
   },
   {
     "title": "Which CSS property sets the maximum width of an element?",
@@ -133,7 +133,7 @@
     "answer_2": "width",
     "answer_3": "min-width",
     "answer_4": "limit-width",
-    "correct_answer": "max-width"
+    "right_answer": "max-width"
   },
   {
     "title": "Which CSS property is used for rounded corners?",
@@ -141,7 +141,7 @@
     "answer_2": "corner-radius",
     "answer_3": "border-style",
     "answer_4": "round-corner",
-    "correct_answer": "border-radius"
+    "right_answer": "border-radius"
   },
   {
     "title": "Which CSS property is used to align text horizontally?",
@@ -149,7 +149,7 @@
     "answer_2": "justify-content",
     "answer_3": "text-align",
     "answer_4": "position",
-    "correct_answer": "text-align"
+    "right_answer": "text-align"
   },
   {
     "title": "Which CSS property is used to control overflow?",
@@ -157,7 +157,7 @@
     "answer_2": "clip",
     "answer_3": "scroll",
     "answer_4": "hidden",
-    "correct_answer": "overflow"
+    "right_answer": "overflow"
   },
   {
     "title": "Which display value removes an element from layout?",
@@ -165,7 +165,7 @@
     "answer_2": "none",
     "answer_3": "invisible",
     "answer_4": "collapse",
-    "correct_answer": "none"
+    "right_answer": "none"
   },
   {
     "title": "Which CSS property is used to underline text?",
@@ -173,7 +173,7 @@
     "answer_2": "underline",
     "answer_3": "font-decoration",
     "answer_4": "decoration",
-    "correct_answer": "text-decoration"
+    "right_answer": "text-decoration"
   },
   {
     "title": "Which CSS function is used for gradients?",
@@ -181,7 +181,7 @@
     "answer_2": "linear-gradient()",
     "answer_3": "color-gradient()",
     "answer_4": "radial-color()",
-    "correct_answer": "linear-gradient()"
+    "right_answer": "linear-gradient()"
   },
   {
     "title": "Which property is used to make an element stick while scrolling?",
@@ -189,7 +189,7 @@
     "answer_2": "sticky",
     "answer_3": "absolute",
     "answer_4": "relative",
-    "correct_answer": "sticky"
+    "right_answer": "sticky"
   },
   {
     "title": "Which CSS property is used to create grids?",
@@ -197,7 +197,7 @@
     "answer_2": "grid-display",
     "answer_3": "display: table",
     "answer_4": "grid-align",
-    "correct_answer": "grid-template-columns"
+    "right_answer": "grid-template-columns"
   },
   {
     "title": "Which CSS property defines animation duration?",
@@ -205,7 +205,7 @@
     "answer_2": "animation-duration",
     "answer_3": "transition-duration",
     "answer_4": "duration",
-    "correct_answer": "animation-duration"
+    "right_answer": "animation-duration"
   },
   {
     "title": "Which property is used for transitions?",
@@ -213,7 +213,7 @@
     "answer_2": "animate",
     "answer_3": "motion",
     "answer_4": "effect",
-    "correct_answer": "transition"
+    "right_answer": "transition"
   },
   {
     "title": "Which CSS property sets the font family?",
@@ -221,7 +221,7 @@
     "answer_2": "font-style",
     "answer_3": "font",
     "answer_4": "font-type",
-    "correct_answer": "font-family"
+    "right_answer": "font-family"
   },
   {
     "title": "Which CSS property makes text uppercase?",
@@ -229,6 +229,6 @@
     "answer_2": "font-case",
     "answer_3": "capitalize",
     "answer_4": "case-change",
-    "correct_answer": "text-transform"
+    "right_answer": "text-transform"
   }
 ]
