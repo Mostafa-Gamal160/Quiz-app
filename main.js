@@ -235,13 +235,13 @@ function countDown(duration, count) {
 // handel categories
 function loadCategory(category) {
   if (category === "html") {
-    fileName = getQuestions("html-questions.json");
+    fileName = getQuestions("json/html-questions.json");
     category.innerHTML = "HTML";
   } else if (category === "css") {
-    fileName = getQuestions("css-questions.json");
+    fileName = getQuestions("json/css-questions.json");
     category.innerHTML = "CSS";
   } else if (category === "js") {
-    fileName = getQuestions("js-questions.json");
+    fileName = getQuestions("json/js-questions.json");
     category.innerHTML === "JS";
   }
 

@@ -213,3 +213,20 @@
   cursor: pointer;
 }
 /* end category */
+
+/* start responsive area */
+@media (max-width: 700px) {
+  .quiz-app {
+    width: 360px;
+    margin: 15px auto;
+  }
+  .quiz-app .quiz-info {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .quiz-app .bullets {
+    flex-direction: column-reverse;
+    gap: 15px;
+  }
+}
+/* end keyframe area */
